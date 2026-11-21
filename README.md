@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0283-move-zeroes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Dynamic Programming
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
