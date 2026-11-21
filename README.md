@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0002-add-two-numbers) |
+| [0268-missing-number](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0268-missing-number) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Dynamic Programming
@@ -27,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0268-missing-number) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0268-missing-number) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 ## String
 |  |
@@ -45,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
