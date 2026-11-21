@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -25,4 +26,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+## Hash Table
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
+## String
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
+## Depth-First Search
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
