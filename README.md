@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0268-missing-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Hash Table
 |  |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
