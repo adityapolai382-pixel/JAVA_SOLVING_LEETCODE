@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [1920-build-array-from-permutation](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1929-concatenation-of-array) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
 ## Prefix Sum
