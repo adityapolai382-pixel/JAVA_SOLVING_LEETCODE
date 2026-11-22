@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0412-fizz-buzz) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/2469-convert-the-temperature) |
 ## Recursion
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
