@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1470-shuffle-the-array) |
