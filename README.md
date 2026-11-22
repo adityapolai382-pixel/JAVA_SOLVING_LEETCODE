@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/2469-convert-the-temperature) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Recursion
 |  |
 | ------- |
