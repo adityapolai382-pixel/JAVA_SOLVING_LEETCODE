@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1672-richest-customer-wealth](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1929-concatenation-of-array) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
