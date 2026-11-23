@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
