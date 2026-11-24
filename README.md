@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2169-count-operations-to-obtain-zero](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
