@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
