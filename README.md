@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1470-shuffle-the-array) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0724-find-pivot-index) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Heap (Priority Queue)
@@ -171,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
