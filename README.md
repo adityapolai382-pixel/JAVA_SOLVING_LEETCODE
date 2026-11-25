@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1929-concatenation-of-array) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3934-smallest-unique-subarray](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3934-smallest-unique-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3934-smallest-unique-subarray](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0268-missing-number) |
+| [3934-smallest-unique-subarray](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -142,4 +145,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1672-richest-customer-wealth) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
