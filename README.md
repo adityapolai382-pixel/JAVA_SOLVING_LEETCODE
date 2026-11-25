@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Recursion
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1929-concatenation-of-array) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3934-smallest-unique-subarray](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3934-smallest-unique-subarray) |
 ## Dynamic Programming
 |  |
@@ -157,4 +159,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3934-smallest-unique-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
