@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3360-stone-removal-game](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Recursion
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
+| [3360-stone-removal-game](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3360-stone-removal-game) |
 ## Prefix Sum
 |  |
 | ------- |
