@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/0412-fizz-buzz) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/adityapolai382-pixel/JAVA_SOLVING_LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Tree
 |  |
